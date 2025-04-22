@@ -11,11 +11,11 @@ See Demo [Here](https://www.google.com)
 
 ## How to start
 
-'''shell
+```shell
 $git clone addr
 $cd fastcampus
 $python main.py
-'''
+```
 
 ## Installation
 
@@ -23,10 +23,10 @@ There is no installation to execute this project
 
 ## Features
 
-'''python
+```python
 for _ in range(3):
     print('hello')
-'''
+```
 
 만약 문장 안에서 특정한 코드 (예: 'print('hello')') 하이라이트가 필요하다면, backquote로 감싸주시면 됩니다
 
