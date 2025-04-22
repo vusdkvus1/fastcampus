@@ -1,6 +1,6 @@
 # fastcampus
 
-이 저장소는 git을 연습하기 위해 만든 것입니다.
+이 저장소는 git을 연습하기 위해 만든 것입니다
 
 See Demo [Here](https://www.google.com)
 
@@ -28,7 +28,7 @@ for _ in range(3):
     print('hello')
 '''
 
-만약 문장 안에서 특정한 코드 (예: 'print('hello')') 하이라이트가 필요하다면, backquote로 감싸주시면 됩니다.
+만약 문장 안에서 특정한 코드 (예: 'print('hello')') 하이라이트가 필요하다면, backquote로 감싸주시면 됩니다
 
 ##Credit
 
